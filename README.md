@@ -1,2 +1,2 @@
-# ushistory-quiz
+# index.html
 tri2quiz
